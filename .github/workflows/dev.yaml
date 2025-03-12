@@ -3,7 +3,7 @@ name: List PR Changes
 on:
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   list-changes:
